@@ -1,5 +1,5 @@
 <h1>Redmine 3.3.3 for Openshift</h1>
-<p> The repository forked from https://github.com/chriswirz/openshift-redmine-3.0.1-quickstart , upgrade to redmine 3.3.3(rails 4.2.1.7, mysql 5.5).
+<p> This repository forked from https://github.com/chriswirz/openshift-redmine-3.0.1-quickstart , upgrade to redmine 3.3.3(rails 4.2.1.7, mysql 5.5).
 <p>The following procedure will create a redmine instance - and was the procedure used to create this repo after a successful deployment.</p>
 <pre>
 # The Openshift application (Openshift V2) must be configured as follows:
